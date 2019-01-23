@@ -1,0 +1,6 @@
+D:\OOP\Botcamp.OOP\Botcamp.OOP\bin\Debug\Botcamp.OOP.exe.config
+D:\OOP\Botcamp.OOP\Botcamp.OOP\bin\Debug\Botcamp.OOP.exe
+D:\OOP\Botcamp.OOP\Botcamp.OOP\bin\Debug\Botcamp.OOP.pdb
+D:\OOP\Botcamp.OOP\Botcamp.OOP\obj\Debug\Botcamp.OOP.exe
+D:\OOP\Botcamp.OOP\Botcamp.OOP\obj\Debug\Botcamp.OOP.pdb
+D:\OOP\Botcamp.OOP\Botcamp.OOP\obj\Debug\Botcamp.OOP.csprojResolveAssemblyReference.cache
